@@ -1,3 +1,5 @@
 ### Space Infinity
 
-an enhanced game visuals inspired from spacerocks gamamaker
+![alt text](cover.PNG)
+
+an enhanced game visuals inspired from spacerocks gamemaker studio
