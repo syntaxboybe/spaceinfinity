@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "1.0.0.0",
+  "option_operagx_next_version": "1.0.0.1",
+  "option_operagx_game_name": "spaceinfinity",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "2952c08c-4a3e-4e79-8c51-4ab102049e7c",
+  "option_operagx_team_name": "syntaxboybe studio",
+  "option_operagx_team_id": "6886720a-c061-4f71-b803-7f13ab81085a",
+  "option_operagx_editUrl": "https://create.gx.games/game/2952c08c-4a3e-4e79-8c51-4ab102049e7c/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/uvoemw/spaceinfinity/tracks/85db8464-dc63-4d1f-83b9-9c70eb9870af/",
+  "option_operagx_publicShareUrl": "",
+}
